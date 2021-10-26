@@ -1,0 +1,7 @@
+.selected {
+  color: red; }
+  .selected input:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px red; }
+
+/*# sourceMappingURL=scss.css.map */

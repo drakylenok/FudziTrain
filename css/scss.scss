@@ -1,0 +1,9 @@
+.selected{
+	color:red;
+	input:focus {
+
+  outline: none;
+  box-shadow: 0 0 0 3px red;
+
+}
+}
